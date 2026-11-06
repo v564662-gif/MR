@@ -2,4 +2,4 @@ services:
   - type: web
     runtime: static
     name: marvel-rift-arena
-    staticPublishPath: public
+    staticPublishPath: .
